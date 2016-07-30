@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html>
+  <header>
+	<meta charset="utf-8">
+	  <title> Escapes Traveling </title>
+
+		<link rel="stylesheet" type="text/css" href= "travel.css">
+		
+		
+	<link rel="icon" href="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Ficons8%2Fandroid%2F512%2FTransport-Airplane-Takeoff-icon.png&f=1"
+	
+		
+   </header>
+<body>
+			<div id= "body1"> 
+
+     <p class="h1"> Welcome to Escape Travels!
+	<br><sub> Helping travelers since 2015</sub></p>
+
+     <p class="double"> Escape Travels is the freedom to travel without dealing with all the nuiances that accompany it.
+	<br> Let us make all the arrangements.
+     	<br>You just remember to bring your passport.</p>
+
+		<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Faiesecuga.files.wordpress.com%2F2014%2F11%2Ftraveling-abroad.jpg&f=1" width="500" height="332" alt="United States Passport with coins">
+	
+
+	
+     <p class="about">Whether you decide to take a look at the many castles of France,
+	<br> or explore the jungles of Central America, 
+	<br>we book everything from airfare to hotels to entertainment.</p>
+
+<script src="?C:\Users\Stephanie\OneDrive\CS 81\escapes.js"></script>
+		
+		<div class="tabs">
+		  <ul class="tablinks">
+			<li class="active"><a href="#tab1">Belize</a></li>
+			<li><a href="#tab2">Thailand</a></li>
+			<li><a href="#tab3">Jamiaca</a></li>
+			<li><a href="#tab4">France</a></li>
+		  </ul>
+		
+
+	<div class="tabcontent blz active"><div id='tab1 Belize body2'>
+		<p><h3>Belize</h3></p>
+		<p><br>Come bask in the rich history of Belize where you can explore ancient Mayan ruins,
+		<br>trek through jugle for your opportunity to have a better arial view of the scene,
+		<br>or go scuba diving in the biggest coral reef on the Western Hemisphere.
+			<br><i>Packages starting at $5260</i>	
+		<br>
+		<br>
+		<br>
+	<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.M14e10149bbaa9fc68f1e210597020a29o0%26pid%3D15.1&f=1" width="300" height="300" alt="belize jungle">
+	<br><img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblog.spaceja.com%2Fwp-content%2Fuploads%2F2010%2F08%2Fbelize-beaches.jpg&f=1" alt="ocean front huts">		                
+		<br>
+		<br>Call us for Details!		
+		</div></div>
+
+
+
+
+	<div class="thai tab">
+	<div id= "tab2">
+	<p><h1>Thailand</h1></p>
+	<p><br>This destination is a hot spot for travelers due to it's rich culture including its signature cuisine,
+	<br> diverse sceneries and ecosystems that range from thick jungle to inviting clear blue oceans, 
+		<br>and exotic appeal, come find out why Thailand is a favorite amoungst tourists!
+		<br> <i>Packages starting at $4132</i>
+	<br><br>
+	<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.M395d43bc92af837d61a89353d8d2c513H0%26pid%3D15.1&f=1" alt="beach">
+	<br><img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.fineartamerica.com%2Fimages-medium-large%2Fbangkok-capital-city-of-thailand-nightscape-arthit-somsakul.jpg&f=1">
+			<br></p>
+			<br>Call for details!</div></div>
+
+
+	<div class="jam tab">
+	<div id="tab3">
+	<h1>Jamaica</h1>
+	<p><br>This mecca of activity is brimming with outdoor activitites including, but not limited to, horseback riding on the beach,
+	<br>hiking towards the famous Dunn's River Falls, 
+	<br> or even swimming with dolphin in the warm ocean while enjoying the great weather.
+		<br> Packages starting at $5102
+		<br>
+		<br><img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.M9f81b6afa0c036606ed4c3f7d62407acH0%26pid%3D15.1&f=1" alt="ocean2">
+		<br><img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Mf67b0ca1666c53d7e736e29f380e4c8dH0%26pid%3D15.1&f=1" alt="waterfall">
+		<br><i>Call for details!</i></p></div></div>
+
+<p>
+	<div class="fra tab" id="tab4">
+	<h1>France</h1>
+	<br>Although world renown for their fine dining, France still boasts simple yet memorable dishes which is why many are drawn to this destination. 
+		<br>Learn to cook with some of the world's most honored chefs in some of the finest chateus,
+		<br>or learn the history behind many medieval castles that dot the French countryside,
+		<br>or dive into the everyday life of one of Frances many metropolitan cities. 
+		<br> Packages starting at $5994
+		<br><img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.castle-forsale.com%2Fimages%2Ffrench-castle-for-sale-4.jpg&f=1" alt="castles">
+		<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.M3e69cc92a38a35d015ce931cdc3940adH0%26pid%3D15.1&f=1" alt="chateau">
+		<br><i>Call for details!</i> </div></p>
+
+		</div>
+		</div>
+
+
+
+	<p><input type="button" value="Let's Go!" onClick='alert("Please 1-888-555-6666 for more details!")'>
+<hr>
+	<p><strong>&copy; Escape Travels</strong> </p>
+
+
+	</body>
+     </html>
+
+
+	
